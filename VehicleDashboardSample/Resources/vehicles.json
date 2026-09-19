@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Simple One",
+    "model": "S1 7 kWh",
+    "battery": 72,
+    "range": 118,
+    "speed": 45,
+    "odometer": 5428,
+    "status": "ONLINE",
+    "lastUpdated": "2026-09-07T10:30:00"
+  },
+  {
+    "id": 2,
+    "name": "Simple Two",
+    "model": "S1 4.8 kWh",
+    "battery": 35,
+    "range": 54,
+    "speed": 0,
+    "odometer": 12340,
+    "status": "OFFLINE",
+    "lastUpdated": "2026-09-06T18:15:00"
+  },
+  {
+    "id": 3,
+    "name": "Simple Pro",
+    "model": "S1 Pro 7 kWh",
+    "battery": 91,
+    "range": 162,
+    "speed": 58,
+    "odometer": 887,
+    "status": "ONLINE",
+    "lastUpdated": "2026-09-07T11:00:00"
+  },
+  {
+    "id": 4,
+    "name": "Simple Lite",
+    "model": "S1 Lite 2.9 kWh",
+    "battery": 14,
+    "range": 21,
+    "speed": 0,
+    "odometer": 3201,
+    "status": "OFFLINE",
+    "lastUpdated": "2026-09-05T09:45:00"
+  },
+  {
+    "id": 5,
+    "name": "Simple Energy X1",
+    "model": "X1 9 kWh",
+    "battery": 58,
+    "range": 97,
+    "speed": 30,
+    "odometer": 2105,
+    "status": "ONLINE",
+    "lastUpdated": "2026-09-07T09:55:00"
+  }
+]
